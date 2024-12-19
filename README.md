@@ -26,3 +26,12 @@ LeetCode is a powerful platform for sharpening your algorithm and data structure
 Solutions are organized into directories named after the date of problem completion. Each directory contains:
 - **Python script:** The solution to the problem.
 - **README file:** A detailed explanation of the problem, approach, and complexity analysis.
+
+## 🤝 Contributing
+Contributions are welcome! If you have a more optimized solution or additional insights, feel free to open a pull request or create an issue.
+
+## 📧 Contact
+Have questions or want to collaborate? Reach out to me via:
+
+- **Email: ahmadryanpermana@gmail.com**
+- **LinkedIn: Ahmad Ryan Permana**
