@@ -2,7 +2,7 @@
 
 ![LeetCode Logo](https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png)
 
-Welcome to the **LeetCode Daily Problem Solutions** repository! 🚀 This repository is dedicated to documenting my journey of solving daily problems from [LeetCode](https://leetcode.com). Each solution is crafted with clarity and efficiency in mind, primarily using Python.
+Welcome to the **LeetCode Daily Problem Solutions** repository! 🚀 This repository is dedicated to documenting my journey of solving daily problems from [LeetCode](https://leetcode.com). Each solution is crafted with clarity and efficiency in mind, primarily using Python and SQL.
 
 ---
 
