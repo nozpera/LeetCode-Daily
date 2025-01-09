@@ -14,7 +14,7 @@ LeetCode is a powerful platform for sharpening your algorithm and data structure
 - Build a strong foundation in competitive programming.
 
 ### Highlights
-- **Language:** Python 🐍
+- **Language:** Python and SQL.
 - **Problem Types:** Array, String, Graphs, Trees, and more.
 - **Difficulty Levels:** Easy to Hard.
 - **Structure:** Organized by problem date.
@@ -25,6 +25,7 @@ LeetCode is a powerful platform for sharpening your algorithm and data structure
 
 Solutions are organized into directories named after the date of problem completion. Each directory contains:
 - **Python script:** The solution to the problem.
+- **SQL script:** The solution to the problem.
 - **README file:** A detailed explanation of the problem, approach, and complexity analysis.
 
 ## 🤝 Contributing
